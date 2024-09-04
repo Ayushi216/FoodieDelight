@@ -1,0 +1,334 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "China Town- Shanghai",
+      "description": "A great place to eat with a cozy atmosphere.",
+      "location": "City Center",
+      "contact": "123-456-7890",
+      "hours": "10:00 AM - 10:00 PM",
+      "rating": "4.3",
+      "image": "https://content.jdmagicbox.com/comp/kolkata/14/033pg000814/catalogue/nirala-s-china-town-rash-behari-avenue-kolkata-chinese-restaurants-dp25ngwfgh.jpg",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Kung Pao Chicken",
+          "price": 12.99
+        },
+        {
+          "id": "2",
+          "name": "Spring Rolls",
+          "price": 5.99
+        },
+        {
+          "id": "3",
+          "name": "Sweet and Sour Pork",
+          "price": 14.99
+        },
+        {
+          "id": "4",
+          "name": "Fried Rice",
+          "price": 8.99
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Cafe Tov",
+      "description": "Known for its delicious dishes and friendly service.",
+      "location": "Downtown",
+      "contact": "987-654-3210",
+      "hours": "11:00 AM - 11:00 PM",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Avocado Toast",
+          "price": 8.99
+        },
+        {
+          "id": "2",
+          "name": "Berry Smoothie",
+          "price": 6.99
+        },
+        {
+          "id": "3",
+          "name": "Greek Yogurt Parfait",
+          "price": 7.49
+        },
+        {
+          "id": "4",
+          "name": "Egg Benedict",
+          "price": 10.99
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Bar and Downtown",
+      "description": "A family-friendly restaurant with a diverse menu.",
+      "location": "Northside",
+      "contact": "555-123-4567",
+      "hours": "9:00 AM - 9:00 PM",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Cheeseburger",
+          "price": 11.99
+        },
+        {
+          "id": "2",
+          "name": "Caesar Salad",
+          "price": 9.49
+        },
+        {
+          "id": "3",
+          "name": "Grilled Chicken Sandwich",
+          "price": 12.49
+        },
+        {
+          "id": "4",
+          "name": "Pasta Primavera",
+          "price": 13.99
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mainland China!",
+      "description": "Offers a fine dining experience with gourmet cuisine.",
+      "location": "Southside",
+      "contact": "555-765-4322",
+      "hours": "12:00 PM - 12:00 AM",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Peking Duck",
+          "price": 22.99
+        },
+        {
+          "id": "2",
+          "name": "Dim Sum",
+          "price": 15.99
+        },
+        {
+          "id": "3",
+          "name": "Hot and Sour Soup",
+          "price": 7.99
+        },
+        {
+          "id": "4",
+          "name": "Mongolian Beef",
+          "price": 18.49
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Fusion Feasta",
+      "description": "Specializes in seafood with a great waterfront view.",
+      "location": "Seaside",
+      "contact": "555-987-6543",
+      "hours": "10:00 AM - 8:00 PM",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Grilled Salmon",
+          "price": 19.99
+        },
+        {
+          "id": "2",
+          "name": "Crab Cakes",
+          "price": 16.49
+        },
+        {
+          "id": "3",
+          "name": "Seafood Paella",
+          "price": 21.99
+        },
+        {
+          "id": "4",
+          "name": "Shrimp Scampi",
+          "price": 18.99
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Wise Owl! Breakfast and More",
+      "description": "A casual spot for breakfast and brunch.",
+      "location": "West End",
+      "contact": "555-654-3210",
+      "hours": "7:00 AM - 3:00 PM",
+      "rating": 4.3,
+      "image": "https://plus.unsplash.com/premium_photo-1686090448301-4c453ee74718?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Pancake Stack",
+          "price": 7.99
+        },
+        {
+          "id": "2",
+          "name": "Eggs Benedict",
+          "price": 9.49
+        },
+        {
+          "id": "3",
+          "name": "French Toast",
+          "price": 8.49
+        },
+        {
+          "id": "4",
+          "name": "Breakfast Burrito",
+          "price": 10.99
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "B Veggie",
+      "description": "Known for its vegan and vegetarian options.",
+      "location": "Eastside",
+      "contact": "555-321-4567",
+      "hours": "10:00 AM - 9:00 PM",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Quinoa Salad",
+          "price": 11.49
+        },
+        {
+          "id": "2",
+          "name": "Veggie Burger",
+          "price": 12.99
+        },
+        {
+          "id": "3",
+          "name": "Stuffed Bell Peppers",
+          "price": 13.49
+        },
+        {
+          "id": "4",
+          "name": "Vegan Tacos",
+          "price": 10.99
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Raha- By JW Mariot",
+      "description": "Offers a unique fusion of international cuisines.",
+      "location": "Central Park",
+      "contact": "555-456-7890",
+      "hours": "11:00 AM - 10:00 PM",
+      "rating": 4.5,
+      "image": "https://content.jdmagicbox.com/comp/ambala/b4/9999px171.x171.240329180756.q2b4/catalogue/2ueoxoxev1t14ee-w1091vq9rf.jpg",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Sushi Roll",
+          "price": 13.99
+        },
+        {
+          "id": "2",
+          "name": "Lamb Chops",
+          "price": 22.49
+        },
+        {
+          "id": "3",
+          "name": "Falafel Wrap",
+          "price": 10.99
+        },
+        {
+          "id": "4",
+          "name": "Mango Salsa",
+          "price": 7.49
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Taco Haven",
+      "description": "A lively spot for tacos and Mexican fare.",
+      "location": "Southside",
+      "contact": "555-234-5678",
+      "hours": "10:00 AM - 11:00 PM",
+      "rating": 4.1,
+      "image": "data:image/jpeg;base64,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",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Beef Tacos",
+          "price": 10.99
+        },
+        {
+          "id": "2",
+          "name": "Chicken Quesadilla",
+          "price": 11.49
+        },
+        {
+          "id": "3",
+          "name": "Fish Tacos",
+          "price": 12.99
+        },
+        {
+          "id": "4",
+          "name": "Churros",
+          "price": 5.99
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Pasta Palace",
+      "description": "Classic Italian dishes with a modern twist.",
+      "location": "Uptown",
+      "contact": "555-678-1234",
+      "hours": "12:00 PM - 10:00 PM",
+      "rating": 4.3,
+      "image": "https://static01.nyt.com/images/2022/08/24/dining/24rest-spaghetti11/merlin_211499229_5ebbaf66-8c6e-4090-8b2f-1806b2f18f45-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "menu": [
+        {
+          "id": "1",
+          "name": "Spaghetti Carbonara",
+          "price": 13.99
+        },
+        {
+          "id": "2",
+          "name": "Lasagna",
+          "price": 14.49
+        },
+        {
+          "id": "3",
+          "name": "Fettuccine Alfredo",
+          "price": 15.99
+        },
+        {
+          "id": "4",
+          "name": "Tiramisu",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "17dc",
+      "name": "Bistro ",
+      "location": "Downtown",
+      "description": "Lot of delicacies",
+      "hours": "10:00 AM - 10:00 PM",
+      "rating": "3.3",
+      "image": "blob:http://localhost:5173/dab51377-c250-4535-aed1-bcb5185af584",
+      "contact": "7878191262"
+    }
+  ]
+}

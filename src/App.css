@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  padding: 0;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: #000000;
+}
+
